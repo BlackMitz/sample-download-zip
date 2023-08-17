@@ -1,0 +1,5 @@
+id,organization,name,password_category,resource_type,resource_id,username,password,one_time_password,archived,url,notes,otp_secret
+111,OrgName,File1,PassType,,,login@email.com,password123,No,No,www.website.com,,
+112,OrgName,File2,PassType,,,login2@email.com,NotAPassword3,No,No,www.website2.com,,JBSWY3DPEHPK3PXP
+113,OrgName,File3,PassType,,,myemail@email.com,ThisPassword5,No,No,www.website3.com,,
+114,OrgName,File4,PassType,,,another1@email.com,another1!,No,No,www/website4.com,,JBSWY3DPEHPK3PXP
